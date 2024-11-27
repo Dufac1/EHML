@@ -9,7 +9,7 @@ Machine Learning course at the Business School of the Bern University of Applied
 
 You can run all the notebooks either via the [binder](https://mybinder.org/) service or via Google Colab using the badges at the top of this file.
 
-In order to run the code locally, we recommend to use conda to create an environment with all the necessary dependencies. If you don't have conda installed we recommend to install [miniforge](https://github.com/conda-forge/miniforge) which is a minimal conda installer. Once installed, you can create the environment by moving to the repository folder and running the following command in the terminal:
+In order to run the code locally, we recommend to use [conda](https://docs.conda.io/en/latest/) to create an environment with all the necessary dependencies. If you don't have conda installed we recommend to install [miniforge](https://github.com/conda-forge/miniforge) which is a minimal conda installer. Once installed, you can create the environment by moving to the repository folder and running the following command in the terminal:
 
 ```bash
 conda env create -f binder/environment.yml
